@@ -10,7 +10,7 @@ A short gameplay video is also included to demonstrate the game in action!
 This project recreates the classic *Snake & Ladder* board game using pure Java.  
 Players roll a dice, move across a 100-cell board, climb ladders, and slide down snakes.  
 When a player wins, a **dialog box** pops up displaying the winner.
-***In my profile i also build this game using only c++ programming language,you can access that code using this link - 
+***In my profile i also build this game using only c++ programming language,you can access that code using this link - https://github.com/AkilaOmal/-Snake-Ladder-Game-
 ---
 
  🧰 Technologies Used
